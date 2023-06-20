@@ -2,21 +2,21 @@
 🔍 **Currently seeking development opportunities!**
 
 #### 💻 My Tech Stack:  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) </br>
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) </br>
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) </br>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)</br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E) </br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) </br>
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) </br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) 
 <!---![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)-->
 <details>
 <summary>🕶 Other Technologies:</summary>
 </br>
-- 🎬 Digital Media Production: Proficient with OBS and Streamlabs
-- 🎛️ Music Software: Experience with Traktor, Garageband and Logic
-- 💳 Retail Tech: Familiar with Square POS systems
-- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla
+- 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
+- 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
+- 💳 Retail Tech: Familiar with Square POS systems</br>
+- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
 </details>
 
 
