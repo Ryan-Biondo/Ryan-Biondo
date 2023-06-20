@@ -10,10 +10,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) 
 <!---![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)-->
+<details>
+<summary>🕶 Other Technologies:</summary>
+</br>
 - 🎬 Digital Media Production: Proficient with OBS and Streamlabs
 - 🎛️ Music Software: Experience with Traktor, Garageband and Logic
 - 💳 Retail Tech: Familiar with Square POS systems
-- 💻 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla
+- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla
+</details>
+
 
 #### 👨‍💼 12 years of management experience | Always ready for a challenge
 
