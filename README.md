@@ -19,6 +19,7 @@
 <!-- Add Link to Blog-->
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)
+[![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)
 
 ---
 <a href="https://www.linkedin.com/in/ryan-biondo/">
