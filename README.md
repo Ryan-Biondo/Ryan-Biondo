@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 I'm Ryan, a passionate Front End Developer
+# Hi there 👋 I'm Ryan, a passionate Front End Developer
 
 🔭 I'm experienced in `HTML` | `CSS` | `SCSS` | `JavaScript` | `React`
 
@@ -16,9 +16,14 @@
 3. [Project 3](<Link_to_Project3>)
 4. [Project 4](<Link_to_Project4>)--->
 
-#### Connect with me:
+## Connect with me:
 
 📫 biondoryan.dev@gmail.com
+
+### Socials:
+[![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo)
+[![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/)
+
 
 <a href="https://www.linkedin.com/in/ryan-biondo/">
   <img align="left" alt="Ryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
