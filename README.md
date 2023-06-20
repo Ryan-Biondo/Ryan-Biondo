@@ -24,7 +24,7 @@
   <img align="left" alt="Ryan's Blog" width="22px" src="<appropriate_icon_for_your_blog>" />
 </a>--->
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars)](https://github.com/Ryan-Biondo/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/ryan-biondo/">
   <img align="left" alt="Ryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
