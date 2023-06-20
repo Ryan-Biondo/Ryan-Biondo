@@ -1,8 +1,8 @@
 
 
-# Hi there 👋 I'm Ryan, a passionate Front End Developer
+## Hello there 👋 I'm Ryan, a passionate Front End Developer
 
-🔭 My Tech Stack: </br>
+##💻 My Tech Stack: </br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
@@ -10,19 +10,20 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 
-👨‍💼 12 years of management experience | Always ready for a challenge
+###👨‍💼 12 years of management experience | Always ready for a challenge
 
-📫 Connect with me at biondoryan.dev@gmail.com
+##📫 Connect with me at biondoryan.dev@gmail.com
 
-👾 Check out my projects on my <a href="ryanbiondo.com">Website</a>
+##👾 Check out my projects on my <a href="ryanbiondo.com">Website</a>
 
 <!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
-### Socials:
+###🔗 Socials:
 [![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/)
 [![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo)
 
 <!-- Add Link to Blog-->
+--- 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
