@@ -13,7 +13,7 @@
 - 🎬 Digital Media Production: Proficient with OBS and Streamlabs
 - 🎛️ Music Software: Experience with Traktor, Garageband and Logic
 - 💳 Retail Tech: Familiar with Square POS systems
-- 💻 Other Tools: Comfortable using VSCode, npm, and FileZilla
+- 💻 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla
 
 #### 👨‍💼 12 years of management experience | Always ready for a challenge
 
