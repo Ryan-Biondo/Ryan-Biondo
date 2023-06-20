@@ -23,7 +23,10 @@
 
 <!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
-#### 🚩 Find Me Here: [![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) [![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) [![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=black)](http://ryanbiondo.com)
+#### 🚩 Find Me Here: 
+[![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) 
+[![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) 
+[![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=black&color=black)](http://ryanbiondo.com)
 
 
 <!-- Add Link to Blog-->
