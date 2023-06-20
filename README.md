@@ -2,7 +2,13 @@
 
 # Hi there 👋 I'm Ryan, a passionate Front End Developer
 
-🔭 I'm experienced in `HTML` | `CSS` | `SCSS` | `JavaScript` | `React`
+🔭 My Tech Stack: </br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+
 
 👨‍💼 12 years of management experience | Always ready for a challenge
 
@@ -18,8 +24,8 @@
 
 <!-- Add Link to Blog-->
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)
-[![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
+[![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
 
 ---
 <a href="https://www.linkedin.com/in/ryan-biondo/">
