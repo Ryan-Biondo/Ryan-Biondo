@@ -28,6 +28,7 @@
 [![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo)
 [![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=black)](http://ryanbiondo.com)
 
+
 <!-- Add Link to Blog-->
 --- 
 
