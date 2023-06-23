@@ -22,7 +22,7 @@
 
 #### 👨‍💼 12 years of management experience | Always ready for a challenge
 
-#### 📫 Connect with me at biondoryan.dev@gmail.com
+#### 📫 Connect with me at dev@ryanbiondo.com
 
 #### 👾 Check out my projects on my <a href="ryanbiondo.com">Website</a>
 
