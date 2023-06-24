@@ -10,17 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) 
 <!---![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)-->
-<details>
-<summary>🕶 Other Technologies:</summary>
-</br>
-- 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
-- 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
-- 💳 Retail Tech: Familiar with Square POS systems</br>
-- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
-</details>
 
-
-#### 👨‍💼 12 years of management experience | Always ready for a challenge
+#### 👨‍💼 12 years of management experience
 
 #### 🚩 Find Me Here: 
 [![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) 
@@ -34,7 +25,14 @@
 
 <!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
-
+<details>
+<summary>🕶 Other Technologies:</summary>
+</br>
+- 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
+- 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
+- 💳 Retail Tech: Familiar with Square POS systems</br>
+- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
+</details>
 --- 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
