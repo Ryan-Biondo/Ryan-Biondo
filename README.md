@@ -22,6 +22,11 @@
 
 #### 👨‍💼 12 years of management experience | Always ready for a challenge
 
+#### 🚩 Find Me Here: 
+[![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) 
+[![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) 
+[![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
+<!-- Add Link to Blog-->
 #### 📫 Connect with me at dev@ryanbiondo.com
 
 #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
@@ -29,11 +34,7 @@
 
 <!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
-#### 🚩 Find Me Here: 
-[![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) 
-[![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) 
-[![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
-<!-- Add Link to Blog-->
+
 --- 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
