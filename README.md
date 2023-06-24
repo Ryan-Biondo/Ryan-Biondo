@@ -33,7 +33,8 @@
 - 💳 Retail Tech: Familiar with Square POS systems</br>
 - 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
 </details>
---- 
+
+---
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
