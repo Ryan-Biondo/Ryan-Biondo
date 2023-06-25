@@ -21,7 +21,7 @@
 #### 📫 Connect with me at dev@ryanbiondo.com
 
 #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
-##### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a> 
+#### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a> 
 
 <!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
