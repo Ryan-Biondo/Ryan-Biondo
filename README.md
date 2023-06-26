@@ -18,12 +18,11 @@
 [![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) 
 [![Website: ryanbiondo.com](https://img.shields.io/badge/-ryanbiondo.com-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
 <!-- Add Link to Blog-->
+
 #### 📫 Connect with me at dev@ryanbiondo.com
 
 #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
 #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a> 
-
-<!---📄 [Link to my resume](<Link_to_my_resume>)--->
 
 <details>
 <summary>🕶 Other Technologies:</summary>
