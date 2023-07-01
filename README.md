@@ -31,7 +31,7 @@
 </br>
 - 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
 - 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
-- 💳 Retail Tech: Familiar with Square POS systems</br>
+- 💳 Retail Tech: Familiar with Salesforce and Square POS systems</br>
 - 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
 </details>
 
