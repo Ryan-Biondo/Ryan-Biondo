@@ -1,4 +1,5 @@
-## Hello there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </br> I'm Ryan Biondo, a Front End Developer who loves burritos.
+## I'm Ryan Biondo, a Front End Developer working with React. </br> 
+Hello there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 🔍 **Currently seeking front-end development opportunities!**
 
 #### 💻 My Technologies:  
