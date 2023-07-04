@@ -33,7 +33,7 @@ Hello there! </br> ![](https://user-images.githubusercontent.com/18350557/176309
 - 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
 - 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
 - 💳 Retail Tech: Familiar with Salesforce and Square POS systems</br>
-- 📎 Other Tools: Comfortable using VSCode, npm, Canva, and FileZilla</br>
+- 📎 Other Tools: Comfortable using VSCode, npm, and FileZilla</br>
 </details>
 
 ---
