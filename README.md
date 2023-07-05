@@ -1,5 +1,5 @@
 ## I'm Ryan Biondo, a Front End Developer working with React. </br> 
-Hello there! </br> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </br>
+Hello there! </br>
 
 #### 💻 My Technologies:  
 
