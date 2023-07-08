@@ -37,7 +37,7 @@ Hello there! </br>
 ---
 #### 🚩 Find Me Here: 
 
-[![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
+[![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanBiondo/)
 <!-- Add Link to Blog-->
