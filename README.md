@@ -41,12 +41,8 @@ Hello there! </br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
 
 ---
-<a href="https://www.linkedin.com/in/ryan-biondo/">
-  <img align="left" alt="Ryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/RyanBiondo">
-  <img align="left" alt="Ryan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanBiondo
 
 ![](https://komarev.com/ghpvc/?username=Ryan-Biondo&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
