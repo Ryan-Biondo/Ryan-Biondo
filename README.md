@@ -15,12 +15,6 @@ Hello there! </br>
 
 #### 👨‍💼 12 years of management experience
 
-#### 🚩 Find Me Here: 
-[![Linkedin: ryan-biondo](https://img.shields.io/badge/-RyanBiondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-biondo/)](https://www.linkedin.com/in/ryan-biondo/) 
-[![Twitter: RyanBiondo](https://img.shields.io/twitter/follow/RyanBiondo?style=social)](https://twitter.com/RyanBiondo) 
-[![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
-<!-- Add Link to Blog-->
-
 #### 📫 Connect with me at dev@ryanbiondo.com
 
 <!-- #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a> -->
@@ -41,8 +35,12 @@ Hello there! </br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
 
 ---
+#### 🚩 Find Me Here: 
+
+[![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanBiondo
+<!-- Add Link to Blog-->
 
 ![](https://komarev.com/ghpvc/?username=Ryan-Biondo&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
