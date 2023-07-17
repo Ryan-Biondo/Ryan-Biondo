@@ -13,8 +13,6 @@ Hello there! </br>
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### 👨‍💼 12 years of management experience
-
 #### 📫 Connect with me at dev@ryanbiondo.com
 
 <!-- #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a> -->
