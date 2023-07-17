@@ -30,8 +30,8 @@ Hello there! </br>
 
 ---
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=radical)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
-[![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=radical)](https://git.io/streak-stats)</br>
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
+[![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 ---
 #### 🚩 Find Me Here: 
