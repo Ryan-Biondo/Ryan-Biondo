@@ -34,7 +34,7 @@ Hello there! </br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 ---
-#### 🚩 Find Me Here: 
+#### 🗺 Find Me Here: 
 
 [![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
