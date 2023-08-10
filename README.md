@@ -1,7 +1,6 @@
 ## I'm Ryan Biondo, a Front End Developer working with React. </br> 
-Hello there! </br>
 
-#### 💻 My Technologies:  
+#### 💻 Technologies:  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) 
@@ -21,10 +20,10 @@ Hello there! </br>
 <details>
 <summary>🕶 Other Technologies:</summary>
 </br>
+- 🤖 AI Tech: Active use of Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
 - 🎬 Digital Media Production: Proficient with OBS and Streamlabs</br>
 - 🎛️ Music Software: Experience with Traktor, Garageband and Logic</br>
 - 💳 Retail Tech: Familiar with Salesforce and Square POS systems</br>
-- 🤖 AI Tech: Active use of Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
 - 📎 Other Tools: Comfortable using VSCode, npm, and FileZilla</br>
 </details>
 
