@@ -14,7 +14,7 @@
 
 #### 📫 Connect with me at dev@ryanbiondo.com
 
-<!-- #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a> -->
+#### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
 
 <details>
@@ -29,7 +29,7 @@
 
 ---
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/Ryan-Biondo/github-readme-stats)</br>
+<!-- [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)] (https://github.com/Ryan-Biondo/github-readme-stats)</br> -->
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 ---
