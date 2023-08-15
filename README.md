@@ -10,9 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### 📫 Connect with me at dev@ryanbiondo.com
 
 #### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
