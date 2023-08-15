@@ -1,4 +1,4 @@
-## I'm Ryan Biondo, a Front End Developer working with React. </br> 
+## Ryan Biondo - Front End Developer</br> 
 
 #### 💻 Technologies:  
 
