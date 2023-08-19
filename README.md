@@ -11,7 +11,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
 
 
-#### 👾 Check out my projects on my <a href="https://www.ryanbiondo.com/">Website</a>
+#### 👾 Check out my projects at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
 
 <details>
