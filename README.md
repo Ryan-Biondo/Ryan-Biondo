@@ -16,7 +16,6 @@
 
 <details>
 <summary>🕶 Other Technologies:</summary>
-</br>
 - 🤖 AI Tech: Active use of Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
 - 📎 Other Tools: Comfortable using VSCode, npm, and FileZilla</br>
 </details>
