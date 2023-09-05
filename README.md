@@ -10,8 +10,8 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
 <details>
 <summary>🕶 Other Technologies:</summary>
-- 🤖 AI Tech: Active use of Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
-- 📎 Other Tools: Comfortable using VSCode, npm, and FileZilla</br>
+- 🤖 AI Tech: Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
+- 📎 Other Tools: VSCode, FileZilla</br>
 </details>
 
 #### 👾 Check out my projects at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
