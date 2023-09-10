@@ -15,7 +15,7 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 - 📎 Other Tools: VSCode, FileZilla</br>
 </details>
 
-#### 👾 Check out my projects at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
+#### 📃 View my resume and project demos at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
 
 
