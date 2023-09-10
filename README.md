@@ -10,10 +10,10 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
 <details>
-<summary>🕶 Other Technologies:</summary>
+<!-- <summary>🕶 Other Technologies:</summary>
 - 🤖 AI Tech: Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
 - 📎 Other Tools: VSCode, FileZilla</br>
-</details>
+</details>  -->
 
 #### 📃 View my resume and project demos at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
