@@ -1,6 +1,8 @@
 ## Ryan Biondo - Web Developer</br> 
 Focused on web development, I'm exploring new opportunities in the tech industry. I bring experience from restaurant management and wholesale fufillment.
 
+#### 📃 View my resume and project demos at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
+
 #### 💻 Technologies:  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E) 
@@ -15,7 +17,7 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 - 📎 Other Tools: VSCode, FileZilla</br>
 </details>  -->
 
-#### 📃 View my resume and project demos at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
+
 <!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
 
 
