@@ -1,4 +1,4 @@
-## Ryan Biondo - Front End Developer</br> 
+## Ryan Biondo - Web Developer</br> 
 Focused on web development, I'm exploring new opportunities in the tech industry. I bring experience from restaurant management and wholesale fufillment.
 
 #### 💻 Technologies:  
