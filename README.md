@@ -1,7 +1,8 @@
 ## Ryan Biondo - Web Developer</br> 
 Focused on web development, I'm exploring new opportunities in the tech industry. I bring experience from restaurant management and wholesale fufillment.
 
-#### 📃 View my resume and project demos at <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
+#### 📃 View my portfolio: <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
+#### 🖊 Link to my resume: <a href="[https://www.ryanbiondo.com/Resume/](https://ryanbiondoresume.netlify.app/)">ryanbiondoresume.netlify.app/</a> 
 
 #### 💻 Technologies:  
 
@@ -16,11 +17,6 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 - 🤖 AI Tech: Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
 - 📎 Other Tools: VSCode, FileZilla</br>
 </details>  -->
-
-
-<!-- #### 🧾 And a direct link to my <a href="https://www.ryanbiondo.com/Resume/">Resume</a>  -->
-
-
 
 ---
 
