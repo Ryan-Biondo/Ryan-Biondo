@@ -1,8 +1,8 @@
 ## Ryan Biondo - Web Developer</br> 
 Focused on web development, I'm exploring new opportunities in the tech industry. I bring experience from restaurant management and wholesale fufillment.
 
-#### 📃 View my portfolio: <a href="https://www.ryanbiondo.com/">ryanbiondo.com</a>
-#### 🖊 Link to my resume: <a href="https://ryanbiondoresume.netlify.app/">ryanbiondoresume.netlify.app</a> 
+#### 📃 View my portfolio: <a href="https://www.ryanbiondo.com/" target="_blank">ryanbiondo.com</a>
+#### 🖊 Link to my resume: <a href="https://ryanbiondoresume.netlify.app/" target="_blank">ryanbiondoresume.netlify.app</a> 
 
 #### 💻 Technologies:  
 
