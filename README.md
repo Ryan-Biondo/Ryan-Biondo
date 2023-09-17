@@ -1,5 +1,5 @@
 ## Ryan Biondo - Web Developer</br> 
-Focused on web development, I'm exploring new opportunities in the tech industry. I bring experience from restaurant management and wholesale fufillment.
+Focused on web development, I'm exploring new opportunities in the tech industry.
 
 #### 📃 View my portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
 #### 🖊 Link to my resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
@@ -12,6 +12,9 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)
+
 <!-- <details>
  <summary>🕶 Other Technologies:</summary>
 - 🤖 AI Tech: Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
