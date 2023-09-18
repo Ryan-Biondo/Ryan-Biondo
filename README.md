@@ -15,12 +15,6 @@ Focused on web development, I'm exploring new opportunities in the tech industry
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js&logoColor=white)
 
-<!-- <details>
- <summary>🕶 Other Technologies:</summary>
-- 🤖 AI Tech: Chat-GPT, Bard, GitHub Copilot, and Notion AI</br>
-- 📎 Other Tools: VSCode, FileZilla</br>
-</details>  -->
-
 ---
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)</br>
