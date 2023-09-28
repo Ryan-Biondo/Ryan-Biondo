@@ -1,9 +1,9 @@
-### Ryan Biondo - Web Developer
+#### Ryan Biondo - Web Developer
 </br> 
 Focused on front end, I'm exploring new opportunities in the tech industry.
 
-#### 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
-#### 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
+### 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
+### 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
 
 #### 💻 Technologies:  
 
