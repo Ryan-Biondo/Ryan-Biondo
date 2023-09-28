@@ -1,4 +1,5 @@
-## Ryan Biondo - Web Developer</br> 
+### Ryan Biondo - Web Developer
+</br> 
 Focused on front end, I'm exploring new opportunities in the tech industry.
 
 #### 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
