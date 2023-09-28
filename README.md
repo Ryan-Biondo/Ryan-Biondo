@@ -1,3 +1,5 @@
+<!-- Thanks for inspecting my code! I'm currently looking for opportunities as a JavaScript developer. Feel free to reach out! =] ryanbiondo.com -->
+
 ## 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
 ## 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
 
@@ -18,12 +20,11 @@
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 ---
-#### 🗺 Find Me Here: 
+## 🗺 Find Me Here: 
 
 [![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanBiondo/)
-<!-- Add Link to Blog-->
 
 ![](https://komarev.com/ghpvc/?username=Ryan-Biondo&label=PROFILE+VIEWS&style=for-the-badge&color=red)
 
