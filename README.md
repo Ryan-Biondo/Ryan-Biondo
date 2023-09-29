@@ -1,7 +1,7 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a JavaScript developer. Feel free to reach out! =] ryanbiondo.com -->
 
 #### 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
-### 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
+#### 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
 
 #### 💻 Technologies:  
 
