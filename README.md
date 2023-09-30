@@ -6,7 +6,6 @@
 
 **<div> 💻 Technologies:</div>** </br>
 <p align="left" style="margin-bottom: 0;">
-  <!-- Line 1: js, html, css, git, typescript -->
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" height="35" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="35" />
