@@ -3,7 +3,7 @@
 #### 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/) (Right-click to open in new tab)
 #### 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/) (Right-click to open in new tab)
 
-**<h4>💻 Technologies:</h4>** 
+**> 💻 Technologies:** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
