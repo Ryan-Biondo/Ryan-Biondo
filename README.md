@@ -1,7 +1,7 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! =] ryanbiondo.com -->
 
-**<div> 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/)</div>** </br>
-**<div> 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/)</div>** </br>
+**<div> 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/)</div>** 
+**<div> 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/)</div>** 
 (Right-click to open in new tab)</br>
 
 **<div> 💻 Technologies:</div>** 
