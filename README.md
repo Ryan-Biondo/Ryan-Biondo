@@ -1,6 +1,6 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a JavaScript developer. Feel free to reach out! =] ryanbiondo.com -->
 
-**<div style='font-size: 4em'> 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/)**</div> </br>
+** 👨‍💻 Portfolio: [ryanbiondo.com](https://www.ryanbiondo.com/)** </br>
 ** 📃 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/)** </br>
 (Right-click to open in new tab)</br>
 
