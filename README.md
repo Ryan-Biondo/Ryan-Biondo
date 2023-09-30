@@ -20,10 +20,11 @@
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 **<div> 🌎 Find Me Here:</div>** </br>
-
-[![Website: ryanbiondo.com](https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://ryanbiondo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-biondo/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RyanBiondo/)
+<p align="left" style="margin-bottom: 0;">
+  <a href="http://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-1F1F1F?&style=for-the-badge&logo=Google-Chrome&logoColor=white" height="30" /></a>
+  <a href="https://www.linkedin.com/in/ryan-biondo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+  <a href="https://twitter.com/RyanBiondo/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Ryan-Biondo&label=PROFILE+VIEWS&style=for-the-badge&color=red)
 
