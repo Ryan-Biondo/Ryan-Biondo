@@ -16,7 +16,6 @@
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)</br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ryan-Biondo)](https://badges.pufler.dev)
 
 **<div> 🌎 Find Me Here:</div>** 
 <p align="left" style="margin-bottom: 0;">
