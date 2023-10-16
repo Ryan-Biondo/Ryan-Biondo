@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Three.js-8B8B8B?style=for-the-badge&logo=Three.js&logoColor=white" height="30" style="pointer-events: none;"/>
 </p>
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)</br>
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)</br>
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)</br>
 
 **<div> 🌎 Find Me Here:</div>** 
