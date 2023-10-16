@@ -25,5 +25,5 @@
   <a href="https://twitter.com/RyanBiondo/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Ryan-Biondo&label=PROFILE+VIEWS&style=for-the-badge&color=green)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Ryan-Biondo)](https://badges.pufler.dev)
 
