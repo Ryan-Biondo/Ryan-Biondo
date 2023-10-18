@@ -1,4 +1,4 @@
-<!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! =] ryanbiondo.com -->
+<!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! -->
 
 ## **<div> 👨‍💻 Resume: [ryanbiondoresume.netlify.app](https://ryanbiondoresume.netlify.app/)</div>** 
 
