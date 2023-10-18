@@ -1,6 +1,6 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! -->
 
-## **<div> 👨‍💻 Resume: [ryanbiondo.com/resume](https://ryanbiondo.com/resume)</div>** 
+## **<div> 👨‍💼 Resume: [ryanbiondo.com/resume](https://ryanbiondo.com/resume)</div>** 
 
 **<div> 💻 Technologies:</div>** 
 <p align="left" style="margin-bottom: 0;">
