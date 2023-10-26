@@ -9,8 +9,8 @@
     <img src="images/git.svg" height="30"/>
     <img src="images/typescript.svg" height="30"/>
     <img src="images/react.svg" height="30"/>
-    <img src="images/nodejs.svg" height="30"/>
-    <img src="images/threejs.svg" height="30"/>
+    <img src="images/node.svg" height="30"/>
+    <img src="images/three.svg" height="30"/>
 </p>
 
 
