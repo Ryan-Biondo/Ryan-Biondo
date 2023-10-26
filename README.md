@@ -2,7 +2,7 @@
 
 ## **<div> 👨‍💼 Resume: [ryanbiondo.com/resume](https://ryanbiondo.com/resume)</div>** 
 
-<p align="left" style="pointer-events: none; cursor: default;"">
+<p align="left" style="pointer-events: none; cursor: default;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="30"/>
