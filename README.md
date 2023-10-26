@@ -4,7 +4,7 @@
 
 <p>
     <noscript>
-    <img src="https://github.com/Ryan-Biondo/Ryan-Biondo/blob/main/images/javascript.svg" height="30"/>
+    ![](https://github.com/Ryan-Biondo/Ryan-Biondo/blob/main/images/javascript.svg)
     <img src="images/html.svg" height="30"/>
     <img src="images/css.svg" height="30"/>
     <img src="images/git.svg" height="30"/>
