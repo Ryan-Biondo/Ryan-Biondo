@@ -2,18 +2,18 @@
 
 ## **<div> 👨‍💼 Resume: [ryanbiondo.com/resume](https://ryanbiondo.com/resume)</div>** 
 
-<p>
-    <noscript>
-    ![](https://github.com/Ryan-Biondo/Ryan-Biondo/blob/main/images/javascript.svg)
-    <img src="images/html.svg" height="30"/>
-    <img src="images/css.svg" height="30"/>
-    <img src="images/git.svg" height="30"/>
-    <img src="images/typescript.svg" height="30"/>
-    <img src="images/react.svg" height="30"/>
-    <img src="images/node.svg" height="30"/>
-    <img src="images/three.svg" height="30"/>
-    </noscript>
-</p>
+
+    
+![JavaScript](https://github.com/Ryan-Biondo/Ryan-Biondo/blob/main/images/javascript.svg)
+![HTML](https://github.com/Ryan-Biondo/Ryan-Biondo/blob/main/images/html.svg)
+<img src="images/html.svg" height="30"/>
+<img src="images/css.svg" height="30"/>
+<img src="images/git.svg" height="30"/>
+<img src="images/typescript.svg" height="30"/>
+<img src="images/react.svg" height="30"/>
+<img src="images/node.svg" height="30"/>
+<img src="images/three.svg" height="30"/>
+
 
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)<br />
