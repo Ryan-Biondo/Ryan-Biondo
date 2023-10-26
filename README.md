@@ -3,6 +3,7 @@
 ## **<div> 👨‍💼 Resume: [ryanbiondo.com/resume](https://ryanbiondo.com/resume)</div>** 
 
 <p>
+    <noscript>
     <img src="images/javascript.svg" height="30"/>
     <img src="images/html.svg" height="30"/>
     <img src="images/css.svg" height="30"/>
@@ -11,6 +12,7 @@
     <img src="images/react.svg" height="30"/>
     <img src="images/node.svg" height="30"/>
     <img src="images/three.svg" height="30"/>
+    </noscript>
 </p>
 
 
