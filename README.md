@@ -1,6 +1,6 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! -->
 
-## **<div> 👨‍💼 [Link to My Resume](https://ryanbiondo.com/resume)</div>** 
+## **👨‍💼 [Link to My Resume](https://ryanbiondo.com/resume)** 
 
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30"/>
