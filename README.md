@@ -27,7 +27,7 @@
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)<br />
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)<br />
 
-You can also find me here:
+You can also connect with me here:
  <br />
   <a href="https://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-5432a8?&style=for-the-badge&logo=startrek&logoColor=white" height="54.5" /></a>
   <br />
