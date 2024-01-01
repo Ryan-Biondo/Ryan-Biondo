@@ -30,11 +30,10 @@
 
 **🔗 You can also connect with me here:**
 <br />
-
   <a href="https://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-5432a8?&style=for-the-badge&logo=startrek&logoColor=white" height="54.5" /></a>
 <br />
   <a href="https://www.linkedin.com/in/ryan-biondo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
   <a href="https://twitter.com/RyanBiondo/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" /></a>
 <br />
 
-# **👨‍💼 [Link to My Resume https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
+# ****👨‍💼 [Link to My Resume https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
