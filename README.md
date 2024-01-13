@@ -1,4 +1,5 @@
 <!-- Thanks for inspecting my code! I'm currently looking for opportunities as a web developer. Feel free to reach out! -->
+
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="30"/>
