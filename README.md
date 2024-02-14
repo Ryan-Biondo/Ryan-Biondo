@@ -36,4 +36,4 @@
   <a href="https://x.com/RyanBiondo/"><img src="https://img.shields.io/badge/X (Twitter)-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" height="30" /></a>
 <br />
 
-### **👨‍💼 [Check out My Resume https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
+### **👨‍💼 [Check out my resume here: https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
