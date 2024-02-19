@@ -32,6 +32,7 @@
 <br />
   <a href="https://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-5432a8?&style=for-the-badge&logo=startrek&logoColor=white" height="54.5" /></a>
 <br />
+<br />
   <a href="https://www.linkedin.com/in/ryan-biondo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
 <br />
   <a href="https://x.com/RyanBiondo/"><img src="https://img.shields.io/badge/X (Twitter)-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" height="30" /></a>
