@@ -37,4 +37,4 @@
 <br />
 
 
-### **👨‍💼 [View my resume here: https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
+### **👨‍💼 View my resume here: [https://ryanbiondo.com/resume](https://ryanbiondo.com/resume)** 
