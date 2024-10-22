@@ -30,7 +30,7 @@
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)
 <br />
 
-## 🔗 Connect with me:
+##
 <br />
   <a href="https://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-5432a8?&style=for-the-badge&logo=startrek&logoColor=white" height="54.5" /></a>
   <br />
