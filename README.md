@@ -1,10 +1,4 @@
-<!-- Thanks for inspecting my code! I am ...
-RRRR    Y     Y     A     N   N     BBBB    III   OOO    N   N   DDDD    OOO  
-R   R    Y   Y     A A    NN  N     B   B    I   O   O   NN  N   D   D  O   O 
-RRRR      Y Y     AAAAA   N N N     BBBB     I   O   O   N N N   D   D  O   O 
-R  R       Y      A   A   N  NN     B   B    I   O   O   N  NN   D   D  O   O 
-R   R      Y      A   A   N   N     BBBB    III   OOO    N   N   DDDD    OOO  
--->
+<!-- Thanks for inspecting my code! Feel free to connect with me!-->
 
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30"/>
