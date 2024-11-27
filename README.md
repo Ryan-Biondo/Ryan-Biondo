@@ -30,7 +30,7 @@
 [![Ryan's GitHub Streak](https://streak-stats.demolab.com/?user=Ryan-Biondo&theme=tokyonight)](https://git.io/streak-stats)
 <br />
 
-### **Find me Here:**
+#### **Find me Here:**
 
   <a href="https://ryanbiondo.com"><img src="https://img.shields.io/badge/-Portfolio-5432a8?&style=for-the-badge&logo=startrek&logoColor=white" height="54.5" /></a>
 <br />
@@ -38,4 +38,4 @@
   <a href="https://x.com/RyanBiondo/"><img src="https://img.shields.io/badge/(Twitter / X)-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" height="30" /></a>
 <br />
 
-### **👨‍💼 View my resume: [here](https://ryanbiondo.com/resume)** 
+#### **👨‍💼 View my resume: [here](https://ryanbiondo.com/resume)** 
