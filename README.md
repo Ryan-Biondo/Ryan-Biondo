@@ -1,4 +1,4 @@
-<!-- Thanks for inspecting my code! Feel free to connect with me at dev@ryanbiondo.com -->
+<!-- Thanks for inspecting my code! Connect with me at dev@ryanbiondo.com -->
 
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30"/>
