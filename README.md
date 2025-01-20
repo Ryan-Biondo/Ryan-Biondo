@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/-Jamf-1E90FF?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Asana-FF6347?style=for-the-badge&logo=asana&logoColor=white" height="30"/>
 
-
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
 </p>
 
