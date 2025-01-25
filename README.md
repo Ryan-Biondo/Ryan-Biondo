@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-Intune-2B6CB0?style=for-the-badge&logo=windows&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Intune-2B6CB0?style=for-the-badge&logo=microsoft&logoColor=white" height="30"/>
+
   <img src="https://img.shields.io/badge/-Jamf-1E90FF?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Asana-FF6347?style=for-the-badge&logo=asana&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
