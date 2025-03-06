@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-RadixUI-FF4081?style=for-the-badge&logo=radix-ui&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-003C68?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Zod-005A9E?style=for-the-badge&logo=zod&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Intune-2B6CB0?style=for-the-badge&logo=codementor&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Jamf-1E90FF?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
