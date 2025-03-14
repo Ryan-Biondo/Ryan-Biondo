@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-TypeScript-5E4FA2?style=for-the-badge&logo=TypeScript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-jQuery-5D4037?style=for-the-badge&logo=jQuery&logoColor=white" height="30"/> 
-  <img src="https://img.shields.io/badge/-React.js-0A4A86?style=for-the-badge&logo=React&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-React.js-0074B7?style=for-the-badge&logo=React&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Node.js-267F4A?style=for-the-badge&logo=Node.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Three.js-8B8B8B?style=for-the-badge&logo=Three.js&logoColor=white" height="30"/>
