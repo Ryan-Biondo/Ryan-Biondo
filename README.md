@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Intune-E65100?style=for-the-badge&logo=codementor&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Jamf-007ACC?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Asana-FF6347?style=for-the-badge&logo=asana&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" height="30"/>
 </p>
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Biondo&hide=stars,contribs,issues&show_icons=true&theme=tokyonight)
