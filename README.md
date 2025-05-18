@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-00695C?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Chakra_UI-3E2723?style=for-the-badge&logo=Chakra-UI&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-DaisyUI-FF6F00?style=for-the-badge&logo=DaisyUI&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-RadixUI-FF4081?style=for-the-badge&logo=radix-ui&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-RadixUI-E91E631?style=for-the-badge&logo=radix-ui&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-MySQL-BF360C?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Prisma-0D47A1?style=for-the-badge&logo=prisma&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Zod-3E2723?style=for-the-badge&logo=zod&logoColor=white" height="30"/>
