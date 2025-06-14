@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Zod-558B2F?style=for-the-badge&logo=zod&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-1B5E20?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Intune-BF360C?style=for-the-badge&logo=codementor&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Jamf-007ACC?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Jamf-1976D2?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Asana-FF6347?style=for-the-badge&logo=asana&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" height="30"/>
 </p>
