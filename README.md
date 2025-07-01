@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Jamf-1976D2?style=for-the-badge&logo=apple&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Asana-D84315?style=for-the-badge&logo=asana&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Git-FF5722?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Google_Workspace-4285F0?style=for-the-badge&logo=google&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-ServiceNow-0058A0?style=for-the-badge&logo=NOW&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Tenable-0096D6?style=for-the-badge&logo=springsecurity&logoColor=white" height="30"/>
 </p>
